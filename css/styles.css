@@ -135,6 +135,9 @@
   .stats-list li {
     margin-bottom: 1.5rem;
   }
+  .img-container img {
+    height: auto;
+  }
 }
 
 body {
